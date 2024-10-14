@@ -1,0 +1,29 @@
+﻿Casual Wear
+Suit
+Sportswear
+T-Shirt
+Jeans
+Jacket
+Sweater
+Tie
+Shirt
+Vest
+Work Pants
+Down Jacket
+Trench Coat
+Slacks
+Shorts
+Hoodie
+Playboy bunny
+Bomber Jacket
+Suit Vest
+Turtleneck Sweater
+Long Sleeve Shirt
+Track Jacket
+Baseball Jacket
+business suit
+police uniform
+military uniform
+baseball uniform
+uniform
+coat dress
