@@ -8,8 +8,6 @@ between fingers
 fisheye
 from below
 from side
-upside-down
-three sided view
 vanishing point
 first-person view
 cut-in
