@@ -9,12 +9,9 @@ fisheye
 from below
 from side
 vanishing point
-first-person view
 cut-in
 pov
-hatching \(texture\)
 dutch angle
-multiple views
 between legs
 close-up
 from above
